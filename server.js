@@ -44,7 +44,7 @@ app.post('/api/request-otp', async (req, res) => {
         service: 'gmail', 
         auth: {
             user: 'saviourjumbo26@gmail.com', 
-            pass: 'saviour123$#'  // <-- REMEMBER TO PASTE YOUR 16-CHARACTER GOOGLE APP PASSWORD HERE
+                pass: 'omgd zmwj bsbl hsaj'   // <-- REMEMBER TO PASTE YOUR 16-CHARACTER GOOGLE APP PASSWORD HERE
         }
     });
 
